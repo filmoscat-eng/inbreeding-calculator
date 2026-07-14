@@ -1,0 +1,12 @@
+id,father,mother
+A,,
+B,,
+C,,
+D,,
+P1,A,B
+P2,A,B
+Q1,C,D
+Q2,C,D
+X,P1,Q1
+Y,P2,Q2
+E,X,Y
